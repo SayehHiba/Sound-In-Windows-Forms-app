@@ -1,0 +1,21 @@
+C:\Users\dell\Desktop\proj c#\alarm\alarm\bin\Debug\alarm.exe.config
+C:\Users\dell\Desktop\proj c#\alarm\alarm\bin\Debug\alarm.exe
+C:\Users\dell\Desktop\proj c#\alarm\alarm\bin\Debug\alarm.pdb
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.exe
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.pdb
+C:\Users\dell\Desktop\proj c#\alarm\alarm\obj\Debug\alarm.Resource1.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\bin\Debug\alarm.exe.config
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\bin\Debug\alarm.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\bin\Debug\alarm.pdb
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.csproj.AssemblyReference.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.Resource1.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.csproj.GenerateResource.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\alarm\alarm\obj\Debug\alarm.pdb
